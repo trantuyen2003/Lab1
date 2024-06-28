@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "4904730644",
+    "project_id": "lab1-8242a",
+    "storage_bucket": "lab1-8242a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4904730644:android:2c7949d116ec0379ef2701",
+        "android_client_info": {
+          "package_name": "com.example.demofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ggjsT9r62a2RlUMKiIKI-YrxYcgYEfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4904730644:android:6c849e164254f9b7ef2701",
+        "android_client_info": {
+          "package_name": "fpoly.tuyentdph23684.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ggjsT9r62a2RlUMKiIKI-YrxYcgYEfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
